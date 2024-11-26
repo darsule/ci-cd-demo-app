@@ -1,0 +1,6 @@
+@team_city_demo_app_HostAddress = http://localhost:5124
+
+GET {{team_city_demo_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
